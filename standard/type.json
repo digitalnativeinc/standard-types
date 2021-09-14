@@ -27,7 +27,8 @@
   },
   "SocketIndex": "i32",
   "Currency": "Balances",
-  "BridgeChainId": "u8",
+  "chainbridge::ChainId": "u8",
+  "ChainId": "u8",
   "ResourceId": "[u8; 32]",
   "DepositNonce": "u64",
   "ProposalVotes": {
